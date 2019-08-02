@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ZeroitDevColorPicker.Helpers.Animations.FormAnimator
+﻿namespace ZeroitDevColorPicker.Helpers.Animations.FormAnimator
 {
     /// <summary>
     /// Class Timer.

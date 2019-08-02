@@ -10,19 +10,16 @@
 /******************************************************************/
 
 using System;
-using System.Collections;
-using System.ComponentModel;
 using System.Drawing;
 using System.Drawing.Drawing2D;
-using System.Data;
 using System.Windows.Forms;
 
 namespace ZeroitDevColorPicker.Helpers.Adobe
 {
-	/// <summary>
-	/// Summary description for ctrl2DColorBox.
-	/// </summary>
-	public class ZeroitAdobeColorBox : System.Windows.Forms.Control
+    /// <summary>
+    /// Summary description for ctrl2DColorBox.
+    /// </summary>
+    public class ZeroitAdobeColorBox : System.Windows.Forms.Control
 	{
 		#region Class Variables
 

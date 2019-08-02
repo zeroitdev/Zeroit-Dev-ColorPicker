@@ -9,15 +9,14 @@
 /*****                                                        *****/
 /******************************************************************/
 
-using System;
 using System.Drawing;
 
 namespace ZeroitDevColorPicker
 {
-	/// <summary>
-	/// Summary description for AdobeColors.
-	/// </summary>
-	public static class ColorConverters
+    /// <summary>
+    /// Summary description for AdobeColors.
+    /// </summary>
+    public static class ColorConverters
 	{
 		
 		#region Public Methods

@@ -27,20 +27,16 @@
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
-using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Diagnostics;
 using System.Drawing;
-using System.Windows.Forms;
 
 namespace ZeroitDevColorPicker.Helpers.Colors.WikiColors
 {
-    
+
     /// <summary>
     /// 	Class representing a color group.
     /// </summary>
-	public class ColorGroup
+    public class ColorGroup
 	{
 
         

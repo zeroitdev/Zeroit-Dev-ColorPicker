@@ -10,15 +10,12 @@
 /******************************************************************/
 
 using System;
-using System.Collections;
-using System.ComponentModel;
 using System.Drawing;
-using System.Data;
 using System.Windows.Forms;
 
 namespace ZeroitDevColorPicker.Helpers.Adobe
 {
-	public delegate void EventHandler(object sender, EventArgs e);
+    public delegate void EventHandler(object sender, EventArgs e);
 
 	/// <summary>
 	/// A vertical slider control that shows a range for a color property (a.k.a. Hue, Saturation, Brightness,

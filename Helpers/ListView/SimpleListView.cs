@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Text;
 using System.Globalization;
 using System.Windows.Forms;
-using ZeroitDevColorPicker.Helpers.Editors.Brushes;
-using ZeroitDevColorPicker.Helpers.Editors.PenPainter;
 
 namespace ZeroitDevColorPicker.Helpers
 {
