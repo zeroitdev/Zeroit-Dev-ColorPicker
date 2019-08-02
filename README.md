@@ -12,7 +12,7 @@ However, it should be noted that this project is not without any flaws and as su
 
 ## WHERE TO FIND
 
-This library is available as an executable file at  [github](https://github.com/zeroitdev/Zeroit-Dev-ColorPicker/blob/master/Installer/Color Picker.exe).
+This library is available as an executable file at  [github](https://github.com/zeroitdev/Zeroit-Dev-ColorPicker/blob/master/Installer/Color%20Picker.exe).
 
 
 
